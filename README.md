@@ -136,3 +136,7 @@ Contact: [arnold.somogyi@gmail.com](arnold.somogyi@gmail.com)
 
 ## 5) Licence
 BSD (2-clause) licensed.
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kv448hx3umueax53m9kv" alt="trackgit-views" />
+</a>
