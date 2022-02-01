@@ -63,7 +63,7 @@ public class JceksKeystore {
         KeyStore.SecretKeyEntry key = (KeyStore.SecretKeyEntry) keyStoreEntry;
 
         Base64.Encoder base64Encoder = Base64.getEncoder();
-        return base64Encoder.encode(key.getSecretKey().getEncoded()).toString();
+        return base64Encoder.encodeToString(key.getSecretKey().getEncoded());
     }
 
     /**
