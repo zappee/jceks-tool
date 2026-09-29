@@ -8,6 +8,10 @@ All notable changes to this project will be documented in this file.
 - show the value of a secret key entry
 - copy secret key entry from source keystore to a target one
 
-### [0.1.1] - 02 January, 2023
+### [0.1.1] - 2023-Jan-02
 #### Added
 - Added a `trackgit.com` link to the readme.
+
+### [0.1.2] - 2026-Sep-29
+#### Changed
+- README documentation update.
