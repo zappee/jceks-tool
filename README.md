@@ -149,11 +149,6 @@ Documentation, source code: https://github.com/zappee/jceks-tool.git
 ```
 
 
-### 7) Source code
-
-[https://github.com/zappee/jceks-tool](https://github.com/zappee/jceks-tool)
-
-
 ### 🤝 Contributing
 
 Contributions, feature requests, optimization, and bug reports are always welcome!
