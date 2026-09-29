@@ -1,5 +1,4 @@
-# Release info
-## `JCEKS-tool`
+# Release Notes — JCEKS-tool
 
 All notable changes to this project will be documented in this file.
 
