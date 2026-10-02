@@ -4,6 +4,9 @@
 ![GitHub Issues](https://img.shields.io/github/issues/zappee/jceks-tool)
 ![GitHub Release](https://img.shields.io/github/v/release/zappee/jceks-tool)
 
+#### ⭐⭐ Like this project? Support my work by giving it a star on [GitHub](https://github.com/zappee/jceks-tool/) ⭐⭐
+
+![GitHub Repo stars](https://img.shields.io/github/stars/zappee/jceks-tool?style=flat)
 
 ### 1) Overview
 The **JCEKS Keystore Tool** is a specialized, enterprise-ready Java command-line interface (CLI) utility designed to manage, inspect, and manipulate _Java Cryptography Extension KeyStore (JCEKS)_ repositories.
